@@ -1,0 +1,12 @@
+.footer{
+    display: flex;
+}
+.footerContainter{
+    display: flex;
+}
+.footer-info{
+    display: flex;
+}
+.footer-map{
+    display: flex;
+}
